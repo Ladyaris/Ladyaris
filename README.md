@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZhcDE3am9wYnk1bHRxeHVxNHc0MWdhdTBxbXFraWN1aWF2NDc2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.instagram.com/led_ih/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&color=E1306C&style=for-the-badge&logo=instagram&logoColor=white&label=" alt="Instagram Badge"/>
+  </a>
+</div>
