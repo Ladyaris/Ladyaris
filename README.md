@@ -22,4 +22,10 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/led_ih/">
     <img src="https://img.shields.io/static/v1?message=Instagram&color=E1306C&style=for-the-badge&logo=instagram&logoColor=white&label=" alt="Instagram Badge"/>
   </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id="profileView" align="center">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" />
 </div>
